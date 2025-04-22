@@ -1,5 +1,4 @@
 # Structs-Union-Enum-Apr-21-Pract-Hw
-Implementing std::array in C Without Using Dynamic Memory
 
 Define a structure to represent a date consisting of a day, month, and year. Write a function to calculate the difference in days between two dates.
 
